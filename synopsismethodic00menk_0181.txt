@@ -1,0 +1,105 @@
+-Τ Lithophaga. 1 17.
+Lithophagus. 105.
+Lithoglyphus. 42.
+Litholepas. 94.
+Lithotrya. 94.
+Litorina. 44.
+Limites. 5.
+Lituitus. 5.
+Lituola. 7.
+Lituolites. 7.
+Lituus. 7.
+
+L 0 b a ria. 12.
+
+Ι 0 li g o. 2.
+
+L 0 l 1 g 0 p s i s. 1.
+Lomastoma. 59.
+
+[omastomae. 18. 25.
+
+LoripeS. 112.
+Lotorium. 67.
+Lucena. 14.
+
+-Τ Luciacea. 125.
+Lucina. 112.
+Lutraria. 119.
+Lutricola. 1 19.
+LycophriS. 7.
+Lymuaea. 37.
+Lymnium. ¹⁰7·
+Lymnus. 58.
+Maclurites. 55.
+Mam-odites. 7.
+Macrostomae. 28.
+-Τ MacrostomeS. 87.
+Μ a c t r a. 1 18.
+
+’Τ Μειοῐι“ἃοεε.ι 1 18.
+M a g a s. 96
+
+Μ al a c 0 t t a. 94.
+’Τ Malleacea.101
+MaUeus, 101,
+Mamilla. 47.
+
+B'Iammaria. 125.
+
+Mal gal itan 102.
+TBIargm itaeea 101
+
+BTargaritana. 106.
+
+R'Iarg'inella. 78.
+
+Marginellus. 73.
+Marginulina. 4.
+Mariana. 125.
+Marissa. 49.
+Mat-tesia. 121.
+Marsyas, 55.
+BIegatrema. 95.
+Megorima. 96.
+ΝἷεεΙᾶηῳηε. 56.
+Melania. 42.
+Melanopsis. 56,
+Melas. 42.
+
+Meleagrina. 102.
+
+Meleagris. 51.
+ΝῖθΙίηᾶ. 101.
+RIelongena. 69.
+Melonia. 8.
+Melonis, 7.
+Melonites. 8.
+Mercenaria. 116.
+Mero& ιιι.
+Blessula. 94.
+Metaptera. 106.
+Microstomae. 28.
+Miliola. 8.
+Miliolites. 5. 8.
+Misilus. 4.
+Mitella. 94.
+Mitra. 84.
+Mitrnlaria. 88.
+Modiola. 105.
+Τ Mollusca. ι..
+Molossus. 5.
+MonocePOS. 62.
+monoculus. 9.
+Monodonta. 52.
+Monodontes. 52.
+Τ Monolopos. 92.
+Τ B‘Ionomya. 97
+Monophora.124.
+{Monophoxffi 125.
+
+Τ Monopleut obl anchiata
+
+11,
+21
+
